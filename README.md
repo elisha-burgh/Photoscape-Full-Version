@@ -256,4 +256,4 @@ This repository serves as the official landing page for PhotoScape. The software
 **Get the most recent version of PhotoScape today!**
 
 ---
-**Last updated:** 2026-10-25 18:10:38 UTC
+**Last updated:** 2026-10-25 21:28:02 UTC
